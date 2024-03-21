@@ -1,0 +1,21 @@
+body {
+    margin: 50px;    
+    background-color: rgb(204, 150, 13);
+}
+#button{
+    padding: 0;}
+#button li {display: inline;}
+
+#button li a{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:xx-large;
+    float: center;
+    padding: 20px;
+    background-color: black;
+    color: aliceblue;
+}
+#button li a:hover{
+    background-color: lightslategray;
+    font-family: bold;
+   
+}
